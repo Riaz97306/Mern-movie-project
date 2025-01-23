@@ -76,18 +76,7 @@
     <img src="https://user-images.githubusercontent.com/72731296/210180438-365b8d33-6b1b-4ffa-9eca-030e96937b43.png" width="700"/>
  </div>
 
- <div align="center"> 
- <h2> 📫 Contact Address</h2>
-<a href="https://github.com/emircandemr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-right: 5px;" />
-</a>
-<a href="https://twitter.com/emircandmir" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-right: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/emircandemr/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-right: 5px;" />
-</a>
- </div>
+
 
 <div align="center">
 <h3> ⭐ Support </h3>
