@@ -85,11 +85,6 @@
 
 ## Getting Started
 
-To get started you can simply clone this `MERN_Movie_Project.git` repository and install the dependencies.
-Clone the `MERN_Movie_Project.git` repository using git:
-
-```bash
-git clone https://github.com/emircandemr/MERN_Movie_Project.git
 
 cd MERN_Movie_Project.git
 ```
